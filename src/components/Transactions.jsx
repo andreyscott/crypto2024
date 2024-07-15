@@ -76,7 +76,7 @@ const TransactionsCard = ({
                         rel="noreferrer"
                       >
                         <p className="inline-block text-base font-semibold leading-5 text-slate-300">
-                          {shortenAddress(addressFrom)}
+                          {/* {shortenAddress(addressFrom)} */}
                         </p>
                       </a>
                     </div>
@@ -117,7 +117,7 @@ const TransactionsCard = ({
                           rel="noreferrer"
                           className="text-base font-semibold leading-[45px] text-slate-300"
                         >
-                          {shortenAddress(addressTo)}
+                          {/* {shortenAddress(addressTo)} */}
                         </a>
                       </div>
                     </div>
